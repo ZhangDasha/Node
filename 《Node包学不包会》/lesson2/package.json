@@ -1,0 +1,15 @@
+{
+  "name": "initialize",
+  "version": "1.0.0",
+  "description": "1. 学习 req.query 的用法   2. 学习建立 package.json 来管理 Node.js 项目。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "utility": "^1.13.1"
+  }
+}
